@@ -22,3 +22,17 @@ This project demonstrates practical network traffic analysis using Wireshark and
 * Network troubleshooting
 * Packet analysis
 * Understanding of OSI model
+
+## Screenshots
+
+### DNS Analysis
+![DNS](screenshots/dns.png)
+
+### TCP Handshake
+![TCP](screenshots/tcp.png)
+
+### TLS Handshake
+![TLS](screenshots/tls.png)
+
+### Packet Loss
+![Retransmission](screenshots/retransmission.png)
